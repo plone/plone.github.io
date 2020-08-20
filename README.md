@@ -33,11 +33,12 @@ What is Plone?
 
 Plone is a ready-to-run content management system, offering a complete set of features needed by a wide variety of organizations.
 
-Security is built into Plone's architecture from the ground up. Plone offers fine grained permission control over content and actions.
+Security is built into Plone's architecture from the ground up.
+Plone offers fine grained permission control over content and actions.
 
 Plone is easy to set up, extremely flexible, and provides you with a system for managing web content that is ideal for project groups, communities, web sites, extranets and intranets.
 
--   *Plone is easy to install.* You can install Plone with a a click-and-run installer, and have a content management system running on your computer in just a few minutes.
+-   *Plone is easy to install.* Several installation options are available for either your local machine or on servers in the cloud.
 -   *Plone is easy to use.* The Plone Team includes usability experts who have made Plone easy and attractive for content managers to add, update, and maintain content.
 -   *Plone is international.* The Plone interface has more than 35 translations, and tools exist for managing multilingual content.
 -   *Plone is standard.* Plone carefully follows standards for usability and accessibility. Plone pages are compliant with US Section 508, and the W3C's AAA rating for accessibility.
